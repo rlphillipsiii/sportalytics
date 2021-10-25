@@ -1,0 +1,19 @@
+{
+  "name": "sportalytics",
+  "version": "1.0.0",
+  "description": "Sports analytics information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlphillipsiii/sportalytics.git"
+  },
+  "author": "Robert Phillips & Andre Augustin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlphillipsiii/sportalytics/issues"
+  },
+  "homepage": "https://github.com/rlphillipsiii/sportalytics#readme"
+}
